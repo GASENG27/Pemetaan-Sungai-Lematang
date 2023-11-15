@@ -1,0 +1,1 @@
+var json_Finish_4 = {"type":"FeatureCollection","name":"Finish_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Finish":"Finish"},"geometry":{"type":"Point","coordinates":[103.524159554209788,-3.835557133444687]}}]}
